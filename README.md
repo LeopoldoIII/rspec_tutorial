@@ -5,9 +5,9 @@
 
     bundle init
 
-Into your gem file add the following line 
+Into your gem file add `rspec` by running
 
-    gem 'rspec'
+    bundle add 'rspec'
 
 
 Then run this line from the terminal
